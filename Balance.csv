@@ -1,0 +1,34 @@
+Código;PuntosAdicionales;Signo;TasaBase;PeriodoInteres;FrecuenciaInteres;Fecha Inicio;Fecha Vencimiento;Cartera;PlanAmortizacion;SaldoCapital;naturaleza;Tasa
+001AABB;0;+;;M       ;1;17/09/2019;17/03/2025;Adquisición Vivienda;CREG    ;511,293.82;A;Auvr
+002CCFF;0;+;;M       ;1;13/02/2020;20/02/2040;Adquisición Vivienda;CREG    ;178,578.22;A;Auvr
+003ZZUU;0;+;;M       ;1;5/02/2020;20/02/2035;Adquisición Vivienda;CREG    ;589,707.39;A;Auvr
+004AABB;0;+;;M       ;1;13/02/2020;20/02/2038;Adquisición Vivienda;CREG    ;301,754.93;A;Auvr
+005CCFF;4.63;+;;T       ;1;12/03/2003;12/03/2023;Cartera Ordinaria;DSCTO;3,193,186.00;A;DTF
+006ZZUU;6.5;+;;M       ;1;30/01/2002;30/01/2026;Cartera Ordinaria;CREG    ;245,262,354.00;A;DTF
+007AABB;3.8;+;;T       ;1;21/03/2001;21/03/2021;Cartera Ordinaria;CREG    ;48,532,416.00;A;DTF
+008CCFF;5.8;+;;S       ;1;30/11/2000;5/10/2030;Cartera Ordinaria;DSCTO;7,000,000.00;A;DTF
+009ZZUU;0; ;9.8653;M       ;1;3/03/2020;3/05/2042;Adquisición Vivienda;CREG    ;7,227,965.00;A;TASA_FIJA
+010AABB;0; ;9.9466;M       ;1;3/03/2020;3/05/2040;Adquisición Vivienda;CREG    ;225,244,595.00;A;TASA_FIJA
+011CCFF;0; ;9.0988;M       ;1;30/03/2020;30/03/2032;Adquisición Vivienda;DSCTO;210,800,000.00;A;TASA_FIJA
+012ZZUU;0; ;9.0988;M       ;1;24/03/2020;24/03/2035;Adquisición Vivienda;DSCTO;422,191,800.00;A;TASA_FIJA
+013AABB;0; ;4.85;D       ;90;19/06/2018;19/06/2020;CDT;INTPER  ;20,000.00;P;TASA_FIJA
+014CCFF;1.07;-;;M       ;1;31/05/2019;31/07/2030;Cartera Pasiva;INTPER  ;890,545.83;P;IBR
+015ZZUU;1.07;-;;M       ;1;31/07/2018;31/07/2030;Cartera Pasiva;INTPER  ;897,845,450.83;A;IBR
+016AABB;0;+;;M       ;1;17/12/2012;30/12/2037;Construcción Vivienda;CREG    ;700,545.83;A;Cuvr
+017CCFF;0;+;;M       ;1;14/03/2012;14/03/2037;Construcción Vivienda;CREG    ;450,314.43;A;Cuvr
+018ZZUU;0;+;;M       ;1;25/06/2008;29/06/2036;Construcción Vivienda;CREG    ;297,947.78;A;Cuvr
+019AABB;1.07;-;;M       ;1;29/02/2020;31/07/2030;Cartera Pasiva;CREG    ;420,000.00;P;IBR
+020CCFF;1.07;-;;M       ;1;29/02/2020;31/07/2030;Cartera Pasiva;CREG    ;84,610,000.00;A;IBR
+021ZZUU;1.07;-;;M       ;1;31/05/2019;31/07/2030;Cartera Pasiva;CREG    ;654,951,389.00;P;IBR
+022AABB;4.3;+;;S       ;1;28/02/2019;23/03/2030;Cartera Pasiva;CREG    ;20,673,470.00;P;IPC
+023CCFF;4.3;+;;S       ;1;23/03/2019;23/03/2030;Cartera Pasiva;CREG    ;683,280,500.00;P;IPC
+024ZZUU;4.3;+;;S       ;1;28/02/2019;23/03/2030;Cartera Pasiva;CREG    ;413,608,752.00;P;IPC
+025DDAA;0;+;;M       ;1;29/04/2020;6/05/2020;Cuenta de Ahorro Jurídica;INTPER  ; 1,734,068,854,391.51 ;P;TA_Jur
+026DDAA;0;+;;M       ;1;30/04/2020;14/05/2020;Cuenta de Ahorro Jurídica;INTPER  ; 8,731,441,964.58 ;P;TA_Jur
+027DDAA;0;+;;M       ;1;1/05/2020;29/05/2020;Cuenta de Ahorro Jurídica;INTPER  ; 27,289,409,109.32 ;P;TA_Jur
+028DDAA;0;+;;M       ;1;2/05/2020;28/07/2020;Cuenta de Ahorro Jurídica;INTPER  ; 34,550,760,234.76 ;P;TA_Jur
+029DDAA;0;+;;M       ;1;3/05/2020;26/10/2020;Cuenta de Ahorro Jurídica;INTPER  ; 21,801,369,706.13 ;P;TA_Jur
+030DDAA;0;+;;M       ;1;4/05/2020;24/04/2021;Cuenta de Ahorro Jurídica;INTPER  ; 35,677,769,761.38 ;P;TA_Jur
+031DDAA;0;+;;M       ;1;5/05/2020;19/04/2022;Cuenta de Ahorro Jurídica;INTPER  ; 27,191,383,533.20 ;P;TA_Jur
+032DDAA;0;+;;M       ;1;6/05/2020;14/04/2023;Cuenta de Ahorro Jurídica;INTPER  ; 41,429,726,492.79 ;P;TA_Jur
+033DDAA;0;+;;M       ;1;8/05/2020;3/04/2025;Cuenta de Ahorro Jurídica;INTPER  ; 1,368,257,800,236.04 ;P;TA_Jur
